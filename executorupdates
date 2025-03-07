@@ -16,9 +16,11 @@
       "name": "none yet",
       "type": "arctic",
       "available": false,
+      "prelease-version": "v1.1",
       "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"
     }
   ],
   "exe_name": "Arctic.exe",
-  "version": "1.0.0.0"
+  "version": "1.0.0.0",
+  "pre_releases_enabled": false
 }
