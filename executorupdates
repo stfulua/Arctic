@@ -1,24 +1,10 @@
 {
   "versions": [
-    {
-      "name": "1.0.0",
-      "available": true,
-      "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"
-    },
-    {
-      "name": "1.1.0",
-      "available": false,
-      "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"
-    }
+    {"name": "1.0.0", "available": true, "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"},
+    {"name": "1.1.0", "available": false, "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"}
   ],
   "pre_releases": [
-    {
-      "name": "none yet",
-      "type": "arctic",
-      "available": false,
-      "prelease-version": "v1.1",
-      "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"
-    }
+    {"name": "none yet", "available": false, "download_link": "https://github.com/stfulua/Arctic/releases/download/v1.0.0/Arctic.zip"}
   ],
   "exe_name": "Arctic.exe",
   "version": "1.0.0.0",
